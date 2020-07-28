@@ -1,0 +1,11 @@
+#Nom ATT DEF att1 att2 att3 att4 PV imgpath Speed
+dracaufreud 100 70 Ca Charge Lance-Flamme Inconscience 500 dracaufreud.png 100
+torKant 70 100 Pistolet-a-eau Charge Folie Destruction 300 torKant.png 70
+psykofoucaultkwak 100 100 Folie Raison Tir Trempette 350 psykofoucaultkwak.png 30
+Florisartre 70 200 Coup-de-fouet Retour-nature Charge Destruction 600 Florisartre.png 20
+JonasPicot 150 70 Charge Idee Doute Nul 10 JonasPicot.png 11
+Marxgicarpe 70 70 Trempette Communisme Charge Pistolet-a-eau 300 Marxgicarpe.png 10
+Descarticho 60 70 Doute Je Charge Oubli 500 Descarticho.png 71
+Leviator 200 40 Blabla-dodo Coup-de-fouet Pistolet-a-eau Destruction 400 Leviator.png 90
+WidePutin 200 200 Elections Wide Communisme Destruction 400 widePutin.png 110
+Astronaut 210 190 0-Gravity Shoot Wait Always-Has-Been 400 astronaut.png 100
